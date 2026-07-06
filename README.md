@@ -1,7 +1,7 @@
 
 # Python Pin Lock Project
 
-This is a simple security-style program made in Year 9.
+This is a simple security-style program.
 It uses:
 - loops
 - conditions
